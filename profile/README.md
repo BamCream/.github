@@ -38,6 +38,9 @@ KBO 구단과 연계된 굿즈에 **시리얼 넘버**가 포함되어 있으며
 - **TypeScript**  
 - **axios**
 
+## 🎨 디자인
+[피그마 연결 링크](https://www.figma.com/slides/a3vVbJsK1yDoIGkuD8JDca/Dark-slides?node-id=87-30&t=de3uxgwiuCJ3KvT2-1)
+
 
 야구는 기록의 스포츠입니다.  
 이제는 **나의 야구 기록도 남기고, 공유**하세요.  
